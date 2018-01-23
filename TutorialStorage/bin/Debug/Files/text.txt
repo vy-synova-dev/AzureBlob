@@ -1,0 +1,212 @@
+<p>[controller]</p>
+
+<p><strong>DATA PROCESSING AGREEMENT</strong></p>
+
+<p><strong>Between</strong></p>
+
+<p>**ProcessorName**<br />
+**ProcessorAddressLine**</p>
+
+<p><strong>and</strong></p>
+
+<p>**CompanyName**<br />
+**CompanyAddressLine**</p>
+
+<p>This data processing agreement (the &quot;Agreement&quot;) is entered into on **CurrentDate**&nbsp;between:</p>
+
+<p>1. **ProcessorName**, a company incorporated in **ProcessorCountry** under the register no. **ProcessorRegistration** and VAT no. **ProcessorVat** (the &quot;Supplier&quot;); and</p>
+
+<p>2. **CompanyName**, a company incorporated in&nbsp;**CompanyCountry** under the register no. **CompanyRegistration** and VAT no. **CompanyVat**&nbsp;(the &quot;Customer&quot;).</p>
+
+<p>The Customer and the Supplier hereinafter collectively referred to as the &quot;Parties&quot; and separately as a &quot;Party&quot;.</p>
+
+<p><strong>1. SCOPE OF THE AGREEMENT</strong></p>
+
+<p>1.1.&nbsp;&nbsp; The Supplier acts as a data processor for the Customer, as the Supplier process personal data for the Customer as set out in Annex 1.</p>
+
+<p>1.2.&nbsp;&nbsp; The personal data to be processed by the Supplier concerns the categories of data, the categories of data subjects and the purposes of the processing set out in Annex 1.</p>
+
+<p>1.3.&nbsp;&nbsp; &quot;Personal data&quot; means any information relating to an identified or identifiable natural person, see article 4(1) of Regulation (EU) 2016/679 of 27 April 2016 (the General Data Protection Regulation &quot;GDPR&quot;). If other confidential information than personal data is processed for the purpose of fulfilling the Agreement, e.g. information considered confidential according to the Financial Business Act, any reference to &quot;personal data&quot; shall include the other confidential information.</p>
+
+<p><strong>2.&nbsp;PROCESSING OF PERSONAL DATA</strong></p>
+
+<p>2.1.&nbsp;&nbsp; &nbsp;Instructions: The Supplier is instructed to process the personal data only for the purposes of providing the data processing services set out in Annex 1. The Supplier may not process or use the Customer&#39;s personal data for any other purpose than provided in the instructions, including the transfer of personal data to any third country or an international organisation, unless the Sup-plier is required to do so according to Union or member state law. In that case, the Supplier shall inform the Customer in writing of that legal requirement before processing, unless that law pro-hibits such information on important grounds of public interest.</p>
+
+<p>2.2.&nbsp;&nbsp; &nbsp;If the Customer in the instructions in Annex 1 or otherwise has given permission to a transfer of personal data to a third country or to international organisations, the Supplier must ensure that there is a legal basis for the transfer, e.g. the EU Commission&#39;s Standard Contractual Clauses for the transfer of personal data to third countries.</p>
+
+<p>2.3.&nbsp;&nbsp; &nbsp;If the Supplier considers an instruction from the Customer to be in violation of the GDPR, or other Union or member state data protection provisions, the Supplier shall immediately inform the Cus-tomer in writing about this.</p>
+
+<p>2.4.&nbsp;&nbsp; &nbsp;If the Supplier is subject to legislation of a third country, the Supplier declares not to be aware of the mentioned legislation preventing the Supplier from fulfilling the Agreement, and that the Sup-plier will notify the Customer in writing without undue delay, if the Supplier becomes aware of that such hindrance is present or will occur.</p>
+
+<p><strong>3. THE SUPPLIER&#39;S GENERAL OBLIGATIONS</strong></p>
+
+<p>3.1.&nbsp;&nbsp; &nbsp;The Supplier must ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.</p>
+
+<p>3.2.&nbsp;&nbsp; &nbsp;The Supplier shall implement appropriate technical and organisational measures to prevent that the personal data processed is</p>
+
+<p>i.&nbsp;&nbsp; &nbsp;accidentally or unlawfully destroyed, lost or altered,<br />
+ii.&nbsp;&nbsp; &nbsp;disclosed or made available without authorisation, or<br />
+iii.&nbsp;&nbsp; &nbsp;otherwise processed in violation of applicable laws, including the GDPR.</p>
+
+<p>3.3.&nbsp;&nbsp; &nbsp;The Supplier must also comply with the special data security requirements that apply to the Cus-tomer, see Annex 1, and with any other applicable data security requirements that are directly in-cumbent on the Supplier; including the data security requirements in the country of establishment of the Supplier, or in the country where the data processing will be performed.</p>
+
+<p>3.4.&nbsp;&nbsp; &nbsp;The appropriate technical and organisational security measures must be determined with due re-gard for</p>
+
+<p>i.&nbsp;&nbsp; &nbsp;the current state of the art,<br />
+ii.&nbsp;&nbsp; &nbsp;the cost of their implementation, and<br />
+iii.&nbsp;&nbsp; &nbsp;the nature, scope, context and purposes of processing as well as the risk of varying likeli-hood and severity for the rights and freedoms of natural persons.</p>
+
+<p>3.5.&nbsp;&nbsp; &nbsp;The Supplier shall upon request provide the Customer with sufficient information to enable the Customer to ensure that the Supplier complies with its obligations under the Agreement, including ensuring that the appropriate technical and organisational security measures have been imple-mented.</p>
+
+<p>3.6.&nbsp;&nbsp; &nbsp;The Supplier shall in December each year at its own cost obtain and forward an audit report from an independent expert regarding the Supplier&#39;s compliance with its obligations under the Agree-ment. The audit report must be issued on the basis of a recognised standard for such audit re-ports. The audit report must be forwarded to the Customer by 31 December of the pertinent year.</p>
+
+<p>3.7.&nbsp;&nbsp; &nbsp;Furthermore, the Customer is entitled at its own cost to appoint an independent expert who shall have access to the Supplier&#39;s data processing facilities and receive the necessary information in order to be able to audit whether the Supplier complies with its obligations under the Agreement, including ensuring that the appropriate technical and organisational security measures have been implemented. The expert shall upon the Supplier&#39;s request sign a customary non-disclosure agreement, and treat all information obtained or received from the Supplier confidentially, and may only share the information with the Customer.</p>
+
+<p>3.8.&nbsp;&nbsp; &nbsp;The Supplier must provide information related to the provision of the services to authorities or the Customer&#39;s external advisors, including auditors, if this is necessary for the performance of their duties in accordance with Union or member state law.</p>
+
+<p>3.9.&nbsp;&nbsp; &nbsp;The Supplier must give authorities who by union or member state law have a right to enter the Customer&#39;s or the Customer&#39;s supplier&#39;s facilities, or representatives of the authorities, access to the Supplier&#39;s physical facilities against proper proof of identity.</p>
+
+<p>3.10.&nbsp;&nbsp; &nbsp;The Supplier must without undue delay after becoming aware of the facts in writing notify the Customer about:</p>
+
+<p>i.&nbsp;&nbsp; &nbsp;any request for disclosure of personal data processed under the Agreement by authorities, unless expressly prohibited under Union or member state law,<br />
+ii.&nbsp;&nbsp; &nbsp;any suspicion or finding of (a) breach of security that results in accidental or unlawful de-struction, loss, alteration, unauthorised disclosure of, or access to, personal data transmit-ted, stored or otherwise processed by the Supplier under the Agreement, or (b) other failure to comply with the Supplier&#39;s obligations under Clause 3.2 and 3.3, or<br />
+iii.&nbsp;&nbsp; &nbsp;any request for access to the personal data received directly from the data subjects or from third parties.</p>
+
+<p>3.11.&nbsp;&nbsp; &nbsp;The Supplier must promptly assist the Customer with the handling of any requests from data sub-jects under Chapter III of the GDPR, including requests for access, rectification, blocking or dele-tion. The Supplier must also assist the controller by implementing appropriate technical and or-ganisational measures, for the fulfilment of the Customer&#39;s obligation to respond to such re-quests.</p>
+
+<p>3.12.&nbsp;&nbsp; &nbsp;The Supplier must assist the Customer with meeting the other obligations that may be incumbent on the Customer according to Union or member state law where the assistance of the Supplier is implied, and where the assistance of the Supplier is necessary for the Customer to comply with its obligations. This includes, but is not limited to, at request to provide the Customer with all necessary information about an incident under Clause 3.10 (ii), and all necessary information for an impact assessment in accordance with article 35 and 36 of the GDPR.</p>
+
+<p>3.13.&nbsp;&nbsp; &nbsp;In Annex 1, the Supplier has stated the physical location of the servers, service centers etc. used to provide the data processing services. The Supplier undertakes to keep the information about the physical location updated by providing a prior written notice of two months to the Customer. This does not require a formal amendment of Annex 1, prior written notice by mail or email suf-fices.</p>
+
+<p><strong>4. SUBSUPPLIERS</strong></p>
+
+<p>4.1.&nbsp;&nbsp; &nbsp;The Supplier may engage a subsupplier. At the time of the Agreement, the Supplier uses the sub-suppliers set out in Annex 2. The Supplier undertakes to inform the Customer of any intended changes concerning the addition or replacement of a subsupplier by providing a prior written no-tice of two months to the Customer. The Customer may object to the use of a subsupplier without cause. The Supplier must inform the Customer in writing of the discontinued use of a subsupplier.<br />
+4.2.&nbsp;&nbsp; &nbsp;Prior to the engagement of a subsupplier, the Supplier shall conclude a written agreement with the subsupplier, in which at least the same data protection obligations as set out in the Agree-ment shall be imposed on the subsupplier, including an obligation to implement appropriate technical and organisational measures in such a manner that the processing will meet the re-quirements of the GDPR.<br />
+4.3.&nbsp;&nbsp; &nbsp;The Customer has the right to receive a copy of the Supplier&#39;s agreement with the subsupplier as regards the provisions related to data protection obligations. The Supplier shall remain fully liable to the Customer for the performance of the subsupplier&#39;s obligations. The fact that the Customer has given consent to the Supplier&#39;s use of a sub-supplier is without prejudice for the Supplier&#39;s duty to comply with the Agreement.</p>
+
+<p><strong>5. CONFIDENTIALITY</strong></p>
+
+<p>5.1.&nbsp;&nbsp; &nbsp;The Supplier shall keep personal data confidential.</p>
+
+<p>5.2.&nbsp;&nbsp; &nbsp;The Supplier shall not disclose the personal data to third parties or take copies of personal data unless strictly necessary for the performance of the Supplier&#39;s obligations towards the Customer according to the Agreement, and on condition that whoever personal data is disclosed to is famil-iar with the confidential nature of the data and has accepted to keep the personal data confiden-tial in accordance with this Agreement.</p>
+
+<p>5.3.&nbsp;&nbsp; &nbsp;If the Supplier is a legal entity all terms of the Agreement apply to any of the Supplier&#39;s employ-ees and the Supplier must ensure that its employees comply with the Agreement.</p>
+
+<p>5.4.&nbsp;&nbsp; &nbsp;The Supplier must limit the access to personal data to employees for whom access to said data is necessary to fulfil the Supplier&#39;s obligations towards the Customer.</p>
+
+<p>5.5.&nbsp;&nbsp; &nbsp;The obligations of the Supplier under Clause 5 persist without time limitation and regardless of whether the cooperation of the Parties has been terminated.</p>
+
+<p>5.6.&nbsp;&nbsp; &nbsp;The Customer shall treat confidential information received from the Supplier confidentially and may not unlawfully use or disclose the confidential information.</p>
+
+<p><strong>6. AMENDMENTS AND ASSIGNMENTS</strong></p>
+
+<p>6.1.&nbsp;&nbsp; &nbsp;The Parties may at any time agree to amend this Agreement. Amendments must be in writing.</p>
+
+<p>6.2.&nbsp;&nbsp; &nbsp;The Supplier may not assign or transfer any of its rights or obligations arising from this Agree-ment without the Customer&#39;s prior, written consent.</p>
+
+<p><strong>7.&nbsp;TERM AND TERMINATION OF THE AGREEMENT</strong></p>
+
+<p>7.1.&nbsp;&nbsp; &nbsp;The Agreement enters into force when signed by both Parties and remains in force until terminat-ed by one of the Parties.</p>
+
+<p>7.2.&nbsp;&nbsp; &nbsp;Each party may terminate the Agreement upon 3 months written notice.</p>
+
+<p>7.3.&nbsp;&nbsp; &nbsp;Regardless of the term of the Agreement, the Agreement shall be in force as long as the Supplier processes the personal data, for which the Customer is data controller.</p>
+
+<p>7.4.&nbsp;&nbsp; &nbsp;In case of termination of the Agreement, regardless of the legal grounds therefore, the Supplier must provide the necessary transition services to the Customer. The Supplier is obliged to assist in a loyal way and as fast as possible with transferring the personal data to another supplier or return them to the Customer.</p>
+
+<p>7.5.&nbsp;&nbsp; &nbsp;On the Customer&#39;s request the Supplier shall immediately transfer or delete personal data, which the Supplier is processing for the Customer, unless Union or member state law requires storage of the personal data.</p>
+
+<p>7.6.&nbsp;&nbsp; &nbsp;The Supplier is under no circumstances entitled to condition the full and unlimited compliance with the Customer&#39;s instructions on the Customer&#39;s payment of outstanding invoices etc., and the Supplier has no right of retention in the personal data.</p>
+
+<p><strong>8. PRIORITY</strong></p>
+
+<p>8.1.&nbsp;&nbsp; &nbsp;If any of the provisions of the Agreement conflict with the provisions of any other written or oral agreement concluded between the Parties, then the provisions of the Agreement shall prevail. However, the requirements in Clause 3 do not apply to the extent that the Parties in another agreement have set out stricter obligations for the Supplier. Furthermore the Agreement shall not apply if and to the extend the EU Commission&#39;s Standard Contractual Clauses for the transfer of personal data to third countries are concluded and such clauses set out stricter obligations for the Supplier and/or for sup-suppliers.</p>
+
+<p>8.2.&nbsp;&nbsp; &nbsp;This Agreement does not determine the Customer&#39;s remuneration of the Supplier for the Supplier&#39;s services according to the Agreement.</p>
+
+<p>- 0 -</p>
+
+<p>For and on behalf of the Supplier</p>
+
+<p>Date: **CurrentDate**<br />
+&nbsp;</p>
+
+<p>##SupplierSignature##</p>
+
+<p>Name:&nbsp;**ProcessorContactName**</p>
+
+<p>Title: **ProcessorContactTitle**</p>
+
+<p>Email:&nbsp; **ProcessorContactEmail**</p>
+
+<p>Phone: **ProcessorContactPhone**</p>
+
+<p>&nbsp;</p>
+
+<p>For and on behalf of the Customer</p>
+
+<p>Date: **CurrentDate**</p>
+
+<p>&nbsp;</p>
+
+<p>##ContactSignature##</p>
+
+<p>Name: **ContactName**</p>
+
+<p>Title: **ContactTitle**</p>
+
+<p>Email: **ContactEmail**</p>
+
+<p>Phone: **ContactPhone**</p>
+
+<p>&nbsp;</p>
+
+<p><u><strong>ANNEX 1</strong></u></p>
+
+<p>This Annex constitutes the Customer&#39;s instruction to the Supplier in connection with the Supplier&#39;s data pro-cessing for the Customer, and is an integrated part of the Agreement.</p>
+
+<p><em><strong>The processing of personal data</strong></em></p>
+
+<p><strong>a)&nbsp;&nbsp; &nbsp;Purpose and nature of the processing operations</strong></p>
+
+<p>**ListPurposes.CurrentProcessor|bullet**</p>
+
+<p><strong>b)&nbsp;&nbsp; &nbsp;Categories of data subjects</strong></p>
+
+<p>**ListPersonTypes.CurrentProcessor|bullet**</p>
+
+<p><strong>c)&nbsp;&nbsp; &nbsp;Categories of personal data</strong></p>
+
+<p>**ListPrivacyDataTypes.Ordinary|bullet**</p>
+
+<p><strong>d)&nbsp;&nbsp; &nbsp;Special categories of data</strong></p>
+
+<p>Special categories of data concern data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data when processed for the purpose of unique identification of a natural person, data concerning health or data concerning a nat-ural person&#39;s sex life or sexual orientation and personal data about criminal convictions and offences.</p>
+
+<p>**ListPrivacyDataTypes.Special|bullet**</p>
+
+<p>&nbsp;</p>
+
+<p><strong>e)&nbsp;&nbsp; &nbsp;Location(s), including name of country/countries of processing</strong></p>
+
+<p>**ProcessorAddressLine**</p>
+
+<p>Specific location of data storage:</p>
+
+<p>##DataStorageLocation:Default Text##</p>
+
+<p><strong>f)&nbsp;&nbsp; &nbsp;Special requirements to security measures that apply to the Customer</strong></p>
+
+<p>State any special security requirements that apply to the Customer, for example pursuant to sector specific regulation or the Customer&#39;s specific requirements to security.</p>
+
+<p>##SecurityRequirements:Default Text##</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>ANNEX2</u></strong></p>
+
+<p><strong><em>Subsuppliers</em></strong></p>
+
+<p>**ListSubSuppliers|bullet**</p>
+
+<p>- 0 -</p>
